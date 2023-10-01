@@ -2,7 +2,7 @@
 
 Hi, this a repository that provides pieces of code that can be used for finetuning a Segment Anything model using the refiners library.
 
-Although it is not fully ready to be launched, it provides the key ideas behind the finetuning, such as :
+Although it is not fully ready to be launched, it provides the key ideas behind the finetuning of a SAM, such as :
 
 - Defining a specific Trainer
 
@@ -11,5 +11,3 @@ Although it is not fully ready to be launched, it provides the key ideas behind 
 - Defining specific Trainer Config
 
 - Defining Specific dataset structure
-
-
