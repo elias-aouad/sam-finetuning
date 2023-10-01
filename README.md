@@ -5,6 +5,8 @@ Hi, this is a repository that provides basic commands for finetuning SAM.
 These commands include :
 
 - Generating a dataset (in the `dataset` folder)
+  
+  For more information on how to generate a dataset for packshot images, please follow the README inside the folder `dataset`
 
 - Defining the right configurations and classes for training SAM (in the `sam` folder)
 
