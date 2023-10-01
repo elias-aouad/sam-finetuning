@@ -44,8 +44,8 @@ def scrapping(url: str, output_folder: str, max_images: int):
 
 def main():
     # This url should be copied from a google search on images
-    # The query was "packshot images white background"
-    # PS : It could have also been a Duckduckgo search
+    # The query can be "packshot images white background"
+    # PS : It can also be a Duckduckgo search
     url = ""
     output_folder = ""
 
