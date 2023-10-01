@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "sam-finetuning"
+version = "0.1.0"
+description = ""
+authors = ["Elias Aouad"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+jupyterlab = "^4.0.6"
+pillow = ">=9.5.0,<10.0.0"
+tqdm = "^4.66.1"
+ipywidgets = "^8.1.1"
+jupyter = "^1.0.0"
+numpy = "^1.26.0"
+torch = "^2.0.1"
+pydantic = "^2.4.2"
+refiners = "^0.1.0"
+selenium = "^4.13.0"
+opencv-python = "^4.8.1.78"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
